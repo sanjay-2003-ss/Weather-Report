@@ -13,7 +13,7 @@ This is a simple and responsive weather application built using **React**, **Axi
 - Styled with Tailwind CSS
 - Basic animations for UI elements
 
-Demo Link : 
+Demo Link : weather-report-beryl.vercel.app
 
 ## 🛠️ Tech Stack
 
